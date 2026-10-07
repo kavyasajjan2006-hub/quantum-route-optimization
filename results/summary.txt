@@ -1,0 +1,20 @@
+QUANTUM OPTIMIZATION OF EMERGENCY VEHICLE ROUTES
+====================================
+
+CLASSICAL RESULT
+Route: Start -> B -> C -> Hospital
+Cost: 5.0
+
+QUBO RESULT
+Route: Start -> B -> C -> Hospital
+Cost: 5.0
+
+QAOA RESULT
+Route: Start -> A -> C -> Hospital
+Cost: 9.0
+Qubits: 7
+
+CONCLUSION
+QAOA produced a feasible route but did not reach the classical optimum in this experiment.
+
+No quantum advantage is claimed.

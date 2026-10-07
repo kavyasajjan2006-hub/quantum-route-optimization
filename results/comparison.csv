@@ -1,0 +1,4 @@
+Method,Route,Travel Cost,Feasible
+Classical,Start -> B -> C -> Hospital,5.0,Yes
+QUBO,Start -> B -> C -> Hospital,5.0,Yes
+QAOA,Start -> A -> C -> Hospital,9.0,Yes

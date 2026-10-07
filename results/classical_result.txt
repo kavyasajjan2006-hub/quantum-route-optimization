@@ -1,0 +1,5 @@
+CLASSICAL SHORTEST-PATH RESULT
+================================
+Route: Start -> B -> C -> Hospital
+Travel cost: 5.0
+Feasible: Yes

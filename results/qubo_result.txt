@@ -1,0 +1,11 @@
+QUBO RESULT
+===========
+Binary variables: (0, 1, 0, 0, 1, 0, 1)
+QUBO energy: -35.0
+Travel cost: 5.0
+Feasible: Yes
+
+Selected roads:
+Start -> B (cost=2.0)
+B -> C (cost=1.0)
+C -> Hospital (cost=2.0)

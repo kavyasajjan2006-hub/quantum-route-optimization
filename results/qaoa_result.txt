@@ -1,0 +1,13 @@
+QAOA RESULT
+===========
+Binary variables: (1, 0, 1, 0, 0, 0, 1)
+Probability: 0.012270559812418603
+Feasible: Yes
+Route: Start -> A -> C -> Hospital
+Travel cost: 9.0
+
+QAOA Configuration
+-------------------
+Number of qubits: 7
+QAOA depth: p = 2
+Simulation: Statevector

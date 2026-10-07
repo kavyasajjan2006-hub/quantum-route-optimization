@@ -1,0 +1,8 @@
+Road ID,Start Node,End Node,Travel Cost
+0,Start,A,4
+1,Start,B,2
+2,A,C,3
+3,A,Hospital,7
+4,B,C,1
+5,B,Hospital,8
+6,C,Hospital,2
